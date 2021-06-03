@@ -1,0 +1,10 @@
+epoch1, loss:1.5497, train_acc:0.66, test_acc:0.617,  time:28.191
+epoch2, loss:0.4947, train_acc:0.926, test_acc:0.955,  time:29.477
+epoch3, loss:0.22, train_acc:0.963, test_acc:0.972,  time:29.258
+epoch4, loss:0.1359, train_acc:0.976, test_acc:0.98,  time:29.018
+epoch5, loss:0.096, train_acc:0.983, test_acc:0.984,  time:28.92
+epoch6, loss:0.0729, train_acc:0.987, test_acc:0.987,  time:28.466
+epoch7, loss:0.0574, train_acc:0.99, test_acc:0.988,  time:28.616
+epoch8, loss:0.0463, train_acc:0.992, test_acc:0.989,  time:28.411
+epoch9, loss:0.0378, train_acc:0.994, test_acc:0.989,  time:28.259
+epoch10, loss:0.0312, train_acc:0.996, test_acc:0.99,  time:28.013
